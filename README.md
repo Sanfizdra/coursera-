@@ -1,2 +1,2 @@
 # coursera-
-coursera course : Fundamentals of Web Developments
+Coursera course: Fundamentals of Web Developments
